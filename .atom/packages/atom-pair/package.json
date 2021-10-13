@@ -1,0 +1,50 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+  "_id": "atom-pair@2.0.13",
+  "_inBundle": false,
+  "_integrity": "sha512-MUHUp7GUgQXe/MwwT6R5A6tXtib/lRU9LxVgKyTvGTDjIacqpV7AoMDSNTPKgQrGVNyANwDo1NUI7R9p5qVQEw==",
+  "_location": "/atom-pair",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+  "_shasum": "29ffdc7b4d59c1bf703edea89c953916d135f432",
+  "_spec": "https://www.atom.io/api/packages/atom-pair/versions/2.0.13/tarball",
+  "_where": "/private/var/folders/d0/4my6w00s5fs2kdgrzjfvcbg80000gn/T/apm-install-dir-2021125-6480-oub4fd.nw30f",
+  "bugs": {
+    "url": "https://github.com/pusher/atom-pair/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "jquery": "^2.1.3",
+    "node-hipchat": "^0.4.5",
+    "randomstring": "^1.0.3",
+    "slack-node": "^0.1.0",
+    "space-pen": "^5.0.1",
+    "underscore": "^1.7.0"
+  },
+  "deprecated": false,
+  "description": "An Atom Package that allows for epic pair programming, powered by Pusher",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/pusher/atom-pair#readme",
+  "license": "MIT",
+  "main": "./lib/atom_pair",
+  "name": "atom-pair",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pusher/atom-pair.git"
+  },
+  "version": "2.0.13"
+}

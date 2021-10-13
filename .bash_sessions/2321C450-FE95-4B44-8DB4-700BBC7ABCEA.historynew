@@ -1,0 +1,5 @@
+utop
+utop
+git config --global user.name "Yunus Maltiti Mohammed"
+git config --global user.email "ymm26@cornell.edu"
+ssh-keygen

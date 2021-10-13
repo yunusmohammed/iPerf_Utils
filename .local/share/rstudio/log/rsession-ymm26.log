@@ -1,0 +1,1 @@
+17 Mar 2021 19:49:55 [rsession-ymm26] WARNING ASSERTION FAILED: pthread_mutex_lock(&m_) == 0; LOGGED FROM: void rstudio_boost::signals2::mutex::lock() /opt/rstudio-tools/boost/boost_1_69_0/include/boost/signals2/detail/lwm_pthreads.hpp:60

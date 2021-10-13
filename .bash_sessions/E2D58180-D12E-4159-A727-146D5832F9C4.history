@@ -1,0 +1,503 @@
+brew services start mongodb-community@4.4
+mongo
+cd ~
+cd Tutorials/
+ls
+cd Web\ Development/
+ls
+mkdir FruitsProject
+cd FruitsProject/
+touch app.js
+npm init -y
+npm -i mongodb
+npm install mongodb
+open app.js
+brew services list
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node --tracce-waings
+node --tracce-warnings
+node --trace-warnings
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+brew services list
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongodb+srv://yunusmo:Sumayatu@2002@cluster0.cd1qp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongodb+srv://yunusmo:Sumayatu@2002@cluster0.cd1qp.mongodb.net/myFirstDatabase?retryWrites=true&w=majorityss\]
+q
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc '/Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt' '/Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ' 
+ls
+cd Desktop/
+ls
+cd Sophomore\ Spring/
+ls
+cd CS\ 
+cd CS\ 3410/
+ls
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+## expect[5] = 0x00000050
+sll x5, x3, x4
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+ls
+source venv/bin/activate
+cd mysite/
+python manage.py runserver
+ls
+python manage.py startapp polls
+python manage.py runserver
+python manage.py migrate
+sqlite
+brew install sqlite
+sqlite
+sql
+sqlite3
+ls 
+source venv/bin/activate
+cd mysite/
+ls
+python manage.py makemigrations polls
+python manage.py sqlmigrate polls 0001
+python manage.py check
+python manage.py migrate
+python manage.py shell
+python manage.py shell
+python manage.py shell
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py runserver
+ls
+source venv/bin/activate
+cd mysite/
+python manage.py runserver
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+ls
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+mongo "mongodb+srv://cluster0.cd1qp.mongodb.net/myFirstDatabase" --username yunusmo
+ls
+cd Tutorials/
+cd Web\ Development/
+cd FruitsProject/
+ls
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+node app.js 
+mongo
+brew services stop mongodb-community@4.4
+brew services list
+cd ~
+ls
+python django -version
+django -version
+python
+cd dev/
+ls
+pip3 list
+pip list
+pip list
+python3 -m venv django_env
+shell django_env/
+ls
+source django_env/bin/activate
+pip list
+which python
+python -version
+python -v
+python -V
+deactivate 
+source django_env/bin/activate
+deactivate 
+rmdir django_env/
+mkdir Projects
+rm -rf django_env/
+cd Projects/
+mkdir LearnDjango
+cd LearnDjango/
+python -m venv venv
+ls
+source venv/bin/activate
+python -m pip install Django
+pip list
+python -m django --version
+django-admin startproject mysite
+ls
+cd mysite/
+ls
+cd ..
+ls
+cd mysite/
+ls
+brew install tree
+tree
+cd ..
+ls
+pip list
+tree
+ls
+cd mysite/
+tree
+django-admin help
+django-admin help --commands
+python
+cd CS1110/
+ls
+cd CS1110SP21/
+ls
+python autograder.py 
+python
+python
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+ls
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+ls
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+java -jar logisim-evolution.jar -testrisc /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/test.txt /Users/ymm26/Desktop/Sophomore\ Spring/CS\ 3410/Logism/A2/a2.circ 
+/Applications/anaconda3/bin/jupyter_mac.command ; exit;
+/Applications/anaconda3/bin/jupyter_mac.command ; exit;
+python
+echo "# BufferOverflowLab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.coecis.cornell.edu/ymm26/BufferOverflowLab.git
+git push -u origin master
+ssh ymm26@ugclinux.cs.cornell.edu
+./simulate -d example1.bin 
+ls
+./simulate -d example1.bin 
+quit()
+quit
+exit
+ssh ymm26@ugclinux.cs.cornell.edu
+ls
+source bin/activate
+source venv
+ssh ymm26@ugclinux.cs.cornell.edu
+python
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 4670/
+ls
+cd "release 3"
+ls
+python featuresUI.py
+exit() exit()
+python tests.py 
+python featuresUI.py
+python featuresUI.py
+python featuresUI.py
+python
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+python
+python
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ls
+cd ..
+ls
+exit() exot
+ls
+ls
+cd P3/
+ls
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ls
+vim exploit_writer.py 
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+cd ~
+ls
+cd Desktop/
+cd Sophomore\ Spring/
+cd CS\ 3410/
+ls
+cd P3/
+ls
+scp ymm26@ugclinux.cs.cornell.edu:ymm26/p3release/exploit.bin .
+ls
+scp ymm26@ugclinux.cs.cornell.edu:ymm26/p3release/exploit_writer.py .
+scp ymm26@ugclinux.cs.cornell.edu:ymm26/p3release/insns .
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+ssh ymm26@ugclinux.cs.cornell.edu
+python
+cd CS1110/
+cd CS1110SP21/
+cd A2
+LS
+cd a3_autograder/
+ls
+python autograder.py 
+cd Desktop/
+cd Sophomore\ Spring/
+ls
+cd CS\ 4670/
+ls
+cd ..
+cd CS\ 3410/
+ls
+cd P4
+ls
+scp ymm26@ugclinux.cs.cornell.edu:~/3410/ymm26/p4/riscv.c .
+pip install imageio
+pip install nose
+brew install ghostscript; brew install imagemagick
+pip install ghostscript
+pip install ghostscript
+brew install ghostscript
+arch -x86_64 brew install ghostscript
+django -v
+python django -v
+arch -x86_64 brew install imagemagick
+ssh ymm26@ugclinux.cs.cornell.edu
+cd Desktop/
+cd Sophomore\ Spring/
+ls
+cd CS\ 4670/
+ls
+cd A3
+ls
+cd release\ 2/
+ls
+cd data
+ls
+./download.sh 
+cd ..
+ls
+python
+ls
+python tests.py 
+pip install opencv
+python tests.py 
+ls
+python tests.py 
+python tests.py 
+nosetests tests.py 
+nosetests tests.py 
+nosetests tests.py 
+nosetests tests.py 
+nosetests tests.py 
+python
+nosetests tests.py 
+nosetests tests.py 
+python
+nosetests tests.py 
+nosetests tests.py 
+python
+nosetests tests.py 
+python photometric_stereo.py tentacle
+python photometric_stereo.py tentacle
+nosetests tests.py 
+nosetests tests.py 
+nosetests tests.py 
+nosetests tests.py 
+python photometric_stereo.py tentacle
+python photometric_stereo.py tentacle
+python
+nosetests tests.py 
+nosetests tests.py 
+python
+nosetests tests.py 
+nosetests tests.py 
+ssh ymm26@ugclinux.cs.cornell.edu
+cd Desktop/
+cd Sophomore\ Spring/
+ls
+cd CS\ 4670/
+ls
+cd A3/
+ls
+cd release\ 2/
+ls
+python combine.py tentacle both
+brew install ghostscript; brew install imagemagick
+arch -x86_64 brew install ghostscript
+brew link ghostscript
+brew link --overwrite ghostscript
+python combine.py tentacle depth
+python combine.py cat normals
+ls
+cd data
+./download.sh
+cd ..
+ls
+python combine.py cat normals
+python photometric_stereo.py cat
+python plane_sweep_stereo.py cat
+python combine.py cat normals
+python
+python combine.py cat normals
+python plane_sweep_stereo.py Flowers
+python combine.py Flowers depth
+cd CS1110/
+ls
+cd CS1110SP21/
+ls
+cd A4
+ls
+cd a4_autograder/
+ls
+python autograder.py 
+cd Desktop/
+cd Sophomore\ Spring/
+ls
+cd CS\ 4670/
+ls
+cd release\ 3
+ls
+python tests.py 
+python tests.py 
+python tests.py 
+python featuresUI.py 
+python
+ls
+cd release/
+jupyter notebook
+conda install pytorch torchvision -c pytorch
+python
+ls
+cd release/
+jupyter notebook
+python
+cd A3/
+cd ..
+cd PA4/
+cd release/
+ls
+jupyter notebook
+cd CS1110/
+cd CS1110SP21/
+ls
+cd A5
+ls
+cd a5_autograder/
+ls
+python autograder.py 
+python
+python
+cd CS1110/
+cd CS1110SP21/
+ls
+cd A6
+cd a6_autograder/
+ls
+python autograder.py 
+cls
+python3.8
+python3
+python3
+python 3
+python3
+python
+cls
+python3
+cls
+jshell
+python
+utop
+opam
+utop
+mkdir ~/CS3110
+cd CS3110
+code .
+cd ~/CS3110/
+. code
+cd ~/CS3110
+code .
+cd ~/CS3110
+code .
+code .
+cd ~/CS3110/
+code .
+cd CS3110/
+code .
+python
+ocamlc -o hello.byte hello.ml
+./hello.byte
+ocamlc -o hello.byte hello.ml
+./hello.byte 
+rm hello.byte hello.cmo hello.cmi
+foo build hello.exe
+dune build hello.exe
+_build/default/hello.exe
+dune exec ./hello.exe
+dune clean
+dune exec ./hello.exe
+dune clean
+utop
+cd CS3110/
+.code
+code.
+code .
+ps
+top

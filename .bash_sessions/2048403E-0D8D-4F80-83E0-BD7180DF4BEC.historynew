@@ -1,0 +1,16 @@
+telnet gaia.cs.umass.edu 80
+brew install telnet
+arch -x86_64 brew install telnet
+telnet gaia.cs.umass.edu 80
+GET /kurose_ross/interactive/index.php HTTP/1.1
+telnet gaia.cs.umass.edu 80
+GET /kurose_ross/interactive/index.php HTTP/1.1
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80
+GET /kurose_ross/interactive/index.php HTTP/1.1\r\nHost: gaia.cs.umass.edu\r\r
+telnet gaia.cs.umass.edu 80
+telnet gaia.cs.umass.edu 80

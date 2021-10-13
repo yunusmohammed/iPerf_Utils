@@ -1,0 +1,737 @@
+1612968157036:5+7
+1612968170099:sqrt(16)*8
+1612968178263:3/log(3)
+1612968221523:3/log(8, base=exp(2))
+1612968230653:3/log(8, base=2)
+1612968257713:2^log10(100)
+1612968262156:2^log(100)
+1612968358033:log(100)
+1612968422121:x <- 7
+1612968423936:x
+1612968426462:x=6
+1612968427906:x
+1612968480009:2 < 3
+1612968500167:x <- c(1,3,2,10,5)
+1612968510560:y<-1:5
+1612968530440:x[1]
+1612968547519:y[2:4]
+1612968562170:x[x>3]
+1612968575313:x[x>=3]
+1612968605687:y
+1612968612679:y+2
+1612968623921:y
+1612968628976:3*y
+1612968640311:y*3
+1612968656989:y^2
+1612968664154:2^y
+1612968687103:y <- 2*y
+1612968689144:y
+1612968733234:a <- c("apple", "banana", "orange")
+1612968759022:a <- ("apple", "banana", "orange")
+1612968784125:b <- c(TRUE, FALSE, TRUE)
+1612968792215:type(1)
+1612968799863:typeof(1)
+1612968803279:typeof(1.0)
+1612968809121:typeof("apple")
+1612968814936:typeof(true)
+1612968822630:typeof(True)
+1612968826355:typeof(TRUE)
+1612968859363:?sum
+1612969021490:x <- c(1,3,2,10,5); y<- 1:5
+1612969045064:x + y
+1612969052280:x*y
+1612969071670:sum(x)
+1612969076905:sum(1,2,4)
+1612969085152:z = c(1)
+1612969088910:x + z
+1612969106943:z <- c(1,2)
+1612969109529:x+z
+1612969125950:del z
+1612969138936:x * y
+1612969144784:max(x)
+1612969152166:min(x)
+1612969157590:sort(x)
+1612969159688:x
+1612969175370:sort(x, decreasing = T)
+1612969182085:length(x)
+1612969247432:x > 3
+1612969258000:sum(x>3)
+1612969286838:(1:length(x))[x>3]
+1612969307136:(1:10)[x>6]
+1612969622990:x = c(5,4,3,2,1)
+1612969626919:(1:length(x))[x>3]
+1612969927758:marathon <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Data Sets/marathon.csv")
+1612969927760:View(marathon)
+1612970103024:getwd()
+1612970201669:View(marathon)
+1612970218559:summary(marathon)
+1612970272228:head(marathon), head(marathon,10)
+1612970298028:head(marathon)
+1612970304099:head(marathon,10)
+1612970322442:tail(marathon)
+1612970325123:tail(marathon,10)
+1612970337715:attributes(marathon)
+1612970389993:marathon$Year
+1612970461471:marathon["Year"]
+1612970504841:marathon[,2]
+1612970515191:marathon[2,]
+1612970574359:marathon$Time
+1612970590854:marathon[2]
+1612970636924:marathon[c(1,3,5),]
+1612970651648:marathon$Year[1]
+1612970658691:marathon$Year[29]
+1612970674502:marathon["Year"][1]
+1612970753815:plot(marathon$Year, marathon$Time)
+1612970820495:plot(x,y)
+1612970853359:ts.plot(marathon$Time)
+1612970896653:?ts.plot()
+1612970942173:ts.plot(marathon$Year, marathon$Time)
+1612970948549:ts.plot(marathon$Time)
+1612971071408:sleep
+1612971145082:boxplot(sleep$extra)
+1612971204138:subset(sleep, group=2)
+1612971234150:subset(sleep, group=2)[,1]
+1612971247616:subset(sleep, group==2)
+1612971255256:subset(sleep, group==2)[,1]
+1612971283272:subset(sleep, group==2)[1,]
+1612971321040:subset(sleep, group==2 & extra > 1.5)
+1612971333945:subset(sleep, group==2 | extra > 1.5)
+1612971359663:group2 <- subset(sleep, group=2)
+1612971367351:group2
+1612971373584:group2 <- subset(sleep, group==2)
+1612971375568:group2
+1612971419350:group1 <- subset(sleep, group==1)
+1612971452646:boxplot(group1$extra, group2$extra)
+1612971490206:?hist
+1612971542522:hist(group1)
+1612971552955:hist(group1$extra)
+1612971566228:hist(group1$extra, group2$extra)
+1612971574948:hist(group2$extra)
+1612971589877:hist(sleep$extra)
+1613067244026:a = c(40,42,70,88,91,100, 111)
+1613067250400:stem(a)
+1613078922333:10 % 2
+1613078955860:10 %% 2
+1613078959291:10 %% 3
+1613078965668:10 ** 2
+1613078971322:3/2
+1613078974187:3//2
+1613079003619:10 */* 2
+1613079009706:10 %/% 3
+1613079373145:?round
+1613079740887:class(28)
+1613079744499:class(28.1)
+1613079761092:typeof(28)
+1613079764222:typeof(28.2)
+1613079769108:typeof(28.245)
+1613079775453:typeof('c')
+1613079778661:typeof('chah')
+1613079783863:typeof("chah")
+1613079867253:round(0.544,2)
+1613079870550:round(0.545,2)
+1613079879820:round(0.545, digits=2)
+1613079885769:round(0.546, digits=2)
+1613079911251:round(0.546, digits=2)
+1613079914140:ls()
+1613079924739:my <- 0
+1613079927540:ls()
+1613080044811:a <- c(1,2,3)
+1613080051260:class(a)
+1613080059442:typeof(a)
+1613080121427:c(1:5)
+1613089007124:'football' == "football"
+1613089034226:a = paste("a", 'b')
+1613089035842:a
+1613089042882:typeof(a)
+1613089045259:class(a)
+1613089121539:rev(c(3,2,4,5))
+1613089786456:5 -
+1613089788787:1
+1613089940168:a <- 1:6
+1613089946251:a + 1
+1613090200784:die <- 1:6
+1613090206657:die * die
+1613090220047:die %*% die
+1613090238582:die %o% die
+1613090552667:round(3.)
+1613090555987:round(3.5)
+1613090564369:round(3.55, 1)
+1613090571477:round(3.5, 0)
+1613090627068:die
+1613090632490:sample(die,1)
+1613090634763:sample(die,1)
+1613090635779:sample(die,1)
+1613091752282:?sample
+1613091872577:roll <- function() {
+1613091872580:die <- 1:6
+1613091872580:dice <- sample(die, size = 2, replace = TRUE)
+1613091872580:sum(dice)
+1613091872581:}
+1613091877928:roll
+1613091882406:roll()
+1613091885255:?roll
+1613091890879:roll()
+1613091927299:a <- roll()
+1613091928117:a
+1613091930954:a <- roll()
+1613091932310:a
+1613092013229:roll
+1613092561825:?unique
+1613092617100:state.division
+1613092732117:pi
+1613092850050:state.area >= 100000
+1613092881586:state.area >= 100000 & state.area <= 200000
+1613227995152:quartet <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/HomeWork/hw1/quartet.csv")
+1613227995154:View(quartet)
+1613228039347:?summary()
+1613228082138:x1 <- quartet$x1
+1613228093630:x2 <- quartet$x2
+1613228109755:x3 <- quartet$x3
+1613228116732:x4 <- quartet$x4
+1613228125782:y1 <- quartet$y1
+1613228131037:y2 <- quartet$y2
+1613228135523:y3 <- quartet$y3
+1613228140851:y4 <- quartet$y4
+1613228185403:summary(x1)
+1613228244422:sd(x1)
+1613228253208:summary(x2)
+1613228260226:sd(x2)
+1613228271493:summary(y1)
+1613228295009:sd(y1)
+1613228301300:summary(y2)
+1613228304543:sd(y2)
+1613228326670:summary(x3)
+1613228329509:sd(s3)
+1613228334123:sd(x3)
+1613228341032:summary(y3)
+1613228345767:sd(y3)
+1613228366913:summary(x4)
+1613228371190:sd(x4)
+1613228379975:summary(y4)
+1613228383912:sd(y4)
+1613238308022:clc()
+1613238418016:par(mfrow=c(2,2))
+1613238491225:plot(x1,y1)
+1613238507034:plot(x2,y2)
+1613238519542:plot(x3,y3)
+1613238524058:plot(x4,y4)
+1613239479986:library(readxl)
+1613239479996:X21tstcar_2020_12_21 <- read_excel("Desktop/Sophomore Spring/ENGRD 2700/HomeWork/hw1/21tstcar-2020-12-21.xlsx")
+1613239480296:View(X21tstcar_2020_12_21)
+1613240029475:library(readxl)
+1613240029476:car_data <- read_excel("Desktop/Sophomore Spring/ENGRD 2700/HomeWork/hw1/21tstcar-2020-12-21.xlsx")
+1613240029750:View(car_data)
+1613240111061:carReduce <- car_data[c(2,22,37,46)]
+1613240115513:View(carReduce)
+1613240176933:colnames(carReduce)<-c("Maker","Weight","Type","FE")
+1613240269303:carReduceGas<-subset(carReduce,Type="Tier 2 Cert Gasoline")
+1613240278507:View(carReduceGas)
+1613240278655:View(carReduceGas)
+1613240283723:View(carReduceGas)
+1613240354279:?subset
+1613240424312:carReduceGas<-subset(carReduce,Type=="Tier 2 Cert Gasoline")
+1613240557499:plot(carReduceGas$Weight, carReduceGas$FE)
+1613242169401:max(carReduceGas$Weight)
+1613242176528:min(carReduceGas$Weight)
+1613242186144:min(carReduceGas$FE)
+1613242199656:max(carReduceGas$FE)
+1613242282746:carReduceGasClean<-subset(carReduceGas,na.rm=TRUE)
+1613242309698:View(carReduceGasClean)
+1613242313765:View(carReduceGasClean)
+1613242314936:View(carReduceGasClean)
+1613242326132:View(carReduceGasClean)
+1613242395489:FE<-carReduceGas$FE
+1613242725085:Weight<-carReduceGas$Weight
+1613242747894:max(FE,na.rm=TRUE)
+1613242754439:min(FE,na.rm=TRUE)
+1613242767641:max(FE)
+1613242773529:min(FE)
+1613242781798:1 != 2
+1613242824406:FEclean <- FE[ FE != NA]
+1613242856351:FEclean <- FE[ FE <= 84.1]
+1613242871836:FEclean <- FE[ FE >= 9.3]
+1613242879830:max(FE)
+1613243055340:weightClean <- Weight[Weight < 6000]
+1613243083573:plot(weightClean, FE)
+1613243175241:carReduceGasClean <- carReduceGas[Weight<6000]
+1613243234724:carReduceGasClean <- subset(carReduceGas, Weight<6000)
+1613243266474:plot(carReduceGasClean$Weight, carReduceGasClean$FE)
+1613243296418:median(carReduceGasClean$Weight)
+1613243325834:carReduceGasClean <- subset(carReduceGasClean, Weight>=3000)
+1613243331090:median(carReduceGasClean$Weight)
+1613243335526:plot(carReduceGasClean$Weight, carReduceGasClean$FE)
+1613243381050:carReduceGasClean <- subset(carReduceGasClean, Weight>3000)
+1613243383708:median(carReduceGasClean$Weight)
+1613243399106:plot(carReduceGasClean$Weight, carReduceGasClean$FE)
+1613243419968:plot(carReduceGasClean$FE, carReduceGasClean$Weight)
+1613243431139:plot(carReduceGasClean$Weight, carReduceGasClean$FE)
+1613243480469:carReduceGasClean1 <- subset(carReduceGasClean, Weight<5000)
+1613243493068:plot(carReduceGasClean1$Weight, carReduceGasClean1$FE)
+1613399858281:plot(carReduceGasClean1$FE, carReduceGasClean1$Weight)
+1613400016943:plot(carReduceGasClean1$Weight, carReduceGasClean1$FE)
+1613438304861:View(carReduceGasClean1)
+1613438711759:plot(carReduceGas$Weight, carReduceGas$FE)
+1613439127771:carReduceGasClean <- carReduceGasClean[Weight < 6000]
+1613439168567:carReduceGasClean <- subset(carReduceGas, Weight <= 6000)
+1613439183072:carReduceGasClean <- subset(carReduceGas, Weight > 3000)
+1613439359960:plot(carReduceGasClean1$Weight, carReduceGasClean1$FE)
+1613439619525:summary(carReduceGasClean$FE)
+1613439674557:summary(carReduceGasClean$Weight)
+1613441956191:honda<-subset(carReduceGas, Maker=="Honda")
+1613442039671:toyota<-subset(carReduceGas, Maker=="Toyota")
+1613442043652:View(toyota)
+1613442100832:gm<-subset(carReduceGas, Maker=="GM")
+1613442119470:ford<-subset(carReduceGas, Maker=="FOMOCO")
+1613442154477:mean(honda)
+1613442171519:mean(honda, rm.na=TRUE)
+1613442236647:mean(honda, na.rm=TRUE)
+1613442310561:mean(honda$FE)
+1613442332879:mean(toyota$FE)
+1613442347968:mean(gm$FE)
+1613442367798:mean(ford$FE)
+1613442589299:boxplot(honda$FE,toyota$FE,gm$FE,ford$FE)
+1613442621020:?boxplot
+1613442765038:boxplot(honda$FE,toyota$FE,gm$FE,ford$FE, xlab="blah")
+1613442791767:boxplot(honda$FE,toyota$FE,gm$FE,ford$FE, xlab="Car Makers", ylab="FE")
+1613443167848:View(carReduce)
+1613443172037:View(carReduceGas)
+1613443250810:benz<-subset(carReduceGas, Maker=="Mercedes-Benz")
+1613443277110:bmw<-subset(carReduceGas, Maker=="BMW")
+1613443311569:nissan<-subset(carReduceGas, Maker=="Nissan")
+1613443352626:?boxplot
+1613443547713:boxplot(benz$FE,bmw$FE,toyota$FE,nissan$FE,xlab=c("benz","bmw","toyota","nissan"))
+1613443573841:boxplot(benz$FE,bmw$FE,toyota$FE,nissan$FE)
+1613443586793:boxplot(benz$FE,bmw$FE,toyota$FE,nissan$FE, xlab="Car Makers")
+1613491479600:?rm
+1613514506914:athlete_events <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/HomeWork/hw1/athlete_events.csv")
+1613514508930:View(athlete_events)
+1613514519623:clear()
+1613521421350:?hist
+1613521468383:hist(athlete_events$Age)
+1613521528431:athleteClean <- subset(athlete_events, Age < 60)
+1613521547669:hist(athleteClean$Age)
+1613521771366:athleteCleanRefined <- subset(athleteClean, Age < 40)
+1613521779852:hist(athleteCleanRefined$Age)
+1613521826789:summary(athlete_events$Age)
+1613521865852:summary(athleteClean$Age)
+1613521899137:summary(athleteCleanRefined$Age)
+1613521985416:female <- subset(athleteClean, Sex == "F")
+1613522005114:?View
+1613522024954:View(female)
+1613522046359:summary(female)
+1613522066605:summary(female$Age)
+1613522131211:male <- subset(athleteClean, Sex == "M")
+1613522147451:summary(male$Age)
+1613522198425:boxplot(male$Age, female$Age)
+1613522235192:?boxplot
+1613573229123:chevron <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/d2/CVX.csv")
+1613573229136:View(chevron)
+1613573273171:exxon <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/d2/XOM.csv")
+1613573273192:View(exxon)
+1613573325992:cvx <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/d2/CVX.csv")
+1613573326015:View(cvx)
+1613573353969:xom <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/d2/XOM.csv")
+1613573353991:View(xom)
+1613573458704:cvxClose <- cvx$Close
+1613573472475:xomClose <- xom$Close
+1613573506588:?search
+1613573694783:?cbind2
+1613573751086:?cbind
+1613573799923:cbind(cvxClose, xomClose)
+1613573866082:cbind2(cvxClose, xomClose)
+1613573882667:cbind(cvxClose, xomClose)
+1613573908977:cbind2(cvxClose, xomClose)
+1613573913437:cbind2(cvxClose, xomClose)
+1613573934150:cvxom <- cbind2(cvxClose, xomClose)
+1613573941120:View(cvxom)
+1613573971810:?ts.plot
+1613574019153:ts.plot(cvxom)
+1613574212366:colnames(cvxom) <- c("cvx", "xom")
+1613574236852:View(cvxClose)
+1613574273166:?ts.plot
+1613574380636:ts.plot(cvxom)
+1613574482453:?legend
+1613574697732:?ts.plot
+1613574934178:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"))
+1613574983848:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=astsa.col(.6)[6])
+1613575013799:legend('topleft', col=c(6,4), lwd=2, legend=c("Land Only", "Ocean Only"), bg='white')
+1613575027262:legend('topleft', col=c(6,3), lwd=2, legend=c("Land Only", "Ocean Only"), bg='white')
+1613575054484:lines(gtemp_ocean, lwd=2, col=astsa.col(.6)[4])
+1613575066571:lines(cvxom, lwd=2, col=astsa.col(.6)[4])
+1613575110020:?tsplot
+1613575279459:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(6,4))
+1613575321285:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(6,3))
+1613575327091:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(6,4))
+1613575330908:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(5,4))
+1613575334437:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(7,4))
+1613575338179:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(8,4))
+1613575344435:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(0,4))
+1613575349118:ts.plot(cvxom, gpars = list(xlab="Time", ylab="Close"), col=c(2,4))
+1613575429347:legend('topleft', col=c(2,4), lwd=2, legend=c("Chevron", "Exxon"), bg='white')
+1613576282974:?plot
+1613576345700:plot(cvxClose, xomClose)
+1613578523108:?diff
+1613578773490:cvxCloseDiff <- diff(cvxClose)
+1613578822380:cvxomDiff <- diff(cvxom)
+1613578827681:View(cvxomDiff)
+1613578967386:ts.plot(cvxomDiff, gpars = list(xlab="Time", ylab="Close"), col=c(2,4))
+1613578996736:legend('topleft', col=c(2,4), lwd=2, legend=c("Chevron", "Exxon"), bg='white')
+1613579027176:ts.plot(cvxomDiff, gpars = list(xlab="Time", ylab="Change in Price"), col=c(2,4))
+1613579032244:legend('topleft', col=c(2,4), lwd=2, legend=c("Chevron", "Exxon"), bg='white')
+1613579744169:plot(cvxomDiff$cvx, cvxCloseDiff$xom)
+1613579855282:xomCloseDiff <- diff(xomClose)
+1613579900363:plot(cvxCloseDiff, xomCloseDiff)
+1613579963375:abline(-6, 2)
+1613579983105:abline(-1, 2)
+1613580003444:plot(cvxCloseDiff, xomCloseDiff)
+1613580022379:abline(-16, 0.5)
+1613580029964:abline(-16, 1)
+1613580034194:abline(-16, 2)
+1613580048412:plot(cvxCloseDiff, xomCloseDiff)
+1613580488273:?hist
+1613580546840:hist(cvxCloseDiff)
+1613580671569:cvxCloseDiffClean <- cvxCloseDiff[cvxCloseDiff >= -5]
+1613580701361:cvxCloseDiffClean <- cvxCloseDiff[cvxCloseDiff >= -5 & cvxCloseDiff <= 5]
+1613580708570:hist(cvxCloseDiffClean)
+1613580759077:summary(cvxCloseDiff)
+1613580764077:summary(cvxCloseClean)
+1613580771036:summary(cvxCloseDiffClean)
+1613580813750:hist(xomCloseDiff)
+1613581360079:xomCloseDiffClean <- xomCloseDiff[ xomCloseDiff >=-4 & xomCloseDiff <= 4]
+1613581417927:hist(xomCloseDiffClean)
+1613581504725:summary(xomCloseDiff)
+1613581521245:summary(xomCloseDiffClean)
+1613581665765:boxplot(cvxCloseDiff ,xomCloseDiff)
+1613581700935:boxplot(cvxCloseDiff ,xomCloseDiff, col=c(2,4))
+1613581728494:legend('topleft', col=c(2,4), lwd=2, legend=c("Chevron", "Exxon"), bg='white')
+1613581774146:boxplot(cvxCloseDiffClean ,xomCloseDiffClean, col=c(2,4))
+1613581793549:legend('topleft', col=c(2,4), lwd=2, legend=c("Chevron Cleam", "Exxon Clean"), bg='white')
+1613650482891:library(tidyverse)
+1613650509423:library("tidyverse")
+1613650529274:install.packages("tidyverse")
+1613650577201:library("tidyverse")
+1614383520683:?sd
+1614383525420:?iqr
+1614383660675:?cor
+1615989640689:dbiom(6, 10, 0.5)
+1615989648975:?dbiom
+1615989655908:?dbinom
+1615989662555:dbinom(6, 10, 0.5)
+1615989780524:dbinom(6, 10, 0.397)
+1615990150381:pbinom(9,10,0.397) - pbinom(3, 10, 0.397)
+1615993328230:1/19
+1615993345233:1-dbinom(1, 10, 1/19)
+1615993394932:1-dbinom(1, 10, 9/19)
+1615993529066:1-pbinom(1, 10, 9/19)
+1616600201157:ln(2)
+1616600206263:log(2)
+1616600251727:1 - pexp(20, log(10)/10)
+1616600306641:dexp(20, log(10)/10)
+1616600350606:?integrate
+1616600370550:Inf
+1616600435275:integrate(pexp(x, log(10)/10), 20, Inf)
+1616600464218:e
+1616604152596:pnorm(115,100,15) - pnorm(85,100,15)
+1616604253753:pnorm(1) - pnorm(-1)
+1616692248130:x = seq(0,1,0.01)
+1616692324473:y = dbeta(x, alpha, beta)
+1616692331546:x = seq(0,1,0.01)
+1616692506854:y = dbeta(x, 2, 5)
+1616692520798:y2 = dbeta(x, alpha2, beta2)
+1616692538851:y2 = dbeta(x, 5, 2)
+1616692553244:y2 = dbeta(x, 5, 2)
+1616692559943:plot(x, y, type="l")
+1616692569814:lines(x, y2)
+1616693872462:clear
+1616693879136:plot(x, y, type="l")
+1616693970561:x = seq(0,1,0.01)
+1616693990456:y1 = dbeta(x, 1, 1)
+1616694004938:y2 = dbeta(x, 2, 1)
+1616694014434:y3 = dbeta(x, 3, 1)
+1616694031509:y4 = dbeta(x, 0.5, 0.5)
+1616694042989:plot(x, y1, type="l")
+1616694079608:lines(x, y2)
+1616694084718:lines(x, y3)
+1616694091065:lines(x, y4)
+1617931350159:Bwages <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/HomeWork/Bwages.csv")
+1617931350165:View(Bwages)
+1617931499967:?hist
+1617931542301:hist(Bwages$wage)
+1617936254342:n = length(Bwages$wage)
+1617936294318:qi = (1:n - 0.5)/n
+1617936312140:mu = mean(Bwages$wage)
+1617936338550:sigma = sd(Bwages$wage)
+1617936361973:x = qnorm(qi, mu, sigma)
+1617936388688:plot(x, sort(Bwages$wage))
+1617936400742:abline(0, 1)
+1617936709127:ln(1)
+1617936719695:log(e)
+1617936724494:log(10)
+1617936820744:x = qlnorm()
+1617936877624:x = qlnorm(qi, 2.31, 0.41)
+1617936889621:plot(x, sort(Bwages$wage))
+1617936894981:abline(0, 1)
+1618064792971:y <- c(0.08, 0.54, 1.13, 1.57, 1.74)
+1618064803448:y <- c(0.08, 0.54, 1.13, 1.57, 1.74)
+1618064828439:?qunif
+1618064872908:?qnorm
+1618064962530:x <- c(0.1, 0.3, 0.5, 0.7, 0.9)
+1618065003675:y <- c(0.08, 0.54, 1.13, 1.57, 1.74)
+1618065022019:q <- c(0.1, 0.3, 0.5, 0.7, 0.9)
+1618065079225:x <- qunif(q, min=0, max=2)
+1618065101525:plot(x, y)
+1618065125281:abline(0, 1)
+1618065729556:precip <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/precip.csv")
+1618065729558:View(precip)
+1618065759657:n = length(precip)
+1618065781008:n = length(precip$precip)
+1618065826805:qi = (1:n - 0.5)/n
+1618065860196:mu = mean(precip$precip)
+1618065874906:sigma = sd(precip$precip)
+1618065891732:x = qnorm(qi, mu, sigma)
+1618065906578:plot(x, sort(precip))
+1618065913697:plot(x, sort(precip$precip))
+1618065940634:abline(0, 1)
+1618065987984:precip <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/Discussion/precip.csv")
+1618065987987:View(precip)
+1618066051599:qqnorm(precip$precip)
+1618424165598:?cov
+1618425432849:DataForSunglasses <- read.csv("~/Desktop/Sophomore Spring/ENGRD 2700/HomeWork/DataForSunglasses.csv")
+1618425432851:View(DataForSunglasses)
+1618425500990:plot(DataForSunglasses$Ice.Cream.Sales...,DataForSunglasses$Temperature.Celsius.)
+1618425588132:cor(DataForSunglasses$Ice.Cream.Sales..., DataForSunglasses$Temperature.Celsius.)
+1618425790012:plot(DataForSunglasses$Sunglass.Sales..., DataForSunglasses$Temperature.Celsius.)
+1618425810315:cor(DataForSunglasses$Sunglass.Sales..., DataForSunglasses$Temperature.Celsius.)
+1618425939461:plot(DataForSunglasses$Sunglass.Sales..., DataForSunglasses$Ice.Cream.Sales...)
+1618425983780:cor(DataForSunglasses$Sunglass.Sales..., DataForSunglasses$Ice.Cream.Sales...)
+1618426046162:?
+1618426054460:cor
+1618426926574:data = cars
+1618426935026:View(data)
+1618426961156:plot(data$speed, data$dist)
+1618427052036:cov(data$speed, data$dist)
+1618427070551:cor(data$speed, data$dist)
+1619110626339:?pbinom
+1619110709722:pbinom(100,1/2)
+1619110750931:pbinom(0.46, 100,1/2)
+1619110758981:pbinom(46, 100,1/2)
+1619110784549:pbinom(50, 100,1/2)
+1619110800514:pbinom(100, 100, 1/2)
+1619110844907:pbinom(1, 100, 1/2)
+1619110942867:pbinom(46, 100, 0.5)
+1619110948939:pbinom(50, 100, 0.5)
+1619110972020:pbinom(49, 100, 0.5)
+1619110980017:pbinom(46, 100, 0.5)
+1620688470526:?data.frame()
+1620688740594:a <- data.frame(x = 8:23, y = c(31.60, 21.32, 16.13, 12.86, 9.05, 7.76, 1.62, 1.34, 1.17, 1.16, 1.11, 1.11, 1.11, 1.09, 1.09))
+1620688765538:a <- data.frame(x = 8:22, y = c(31.60, 21.32, 16.13, 12.86, 9.05, 7.76, 1.62, 1.34, 1.17, 1.16, 1.11, 1.11, 1.11, 1.09, 1.09))
+1620688767938:View(a)
+1620688919032:View(a)
+1620688967414:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "red", xlab = "x", ylab = "y")
+1620689181585:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "green", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate")
+1620689199057:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate")
+1620689257314:?plot
+1620689277628:?plot(0)
+1620689315788:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate", ylim=40)
+1620689355931:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate") + ylim(0, 40)
+1620689388425:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate", ylim=c(0,40))
+1620689401777:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate", ylim=c(0,35))
+1620690221825:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate %", ylim=c(0,35), main = "Miss Rate vs Cache Size for Direct Mapped Cache")
+1620691127758:y2 = c(33.46, 21.97, 16.73, 12.93, 8.9, 4.27, 4.56, 1.30, 1.25, 1.12, 1.11, 1.08, 1.08, 1.08, 1.08)
+1620691163147:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate %", ylim=c(0,35), main = "Miss Rate vs Cache Size")
+1620691225644:lines(x, y2, pch = 18, col = "red", type = "b", lty = 2)
+1620691238795:lines(a$x, y2, pch = 18, col = "red", type = "b", lty = 2)
+1620691318274:lines(a$x, y2, pch = 19, col = "red", type = "b", lty = 2)
+1620691361030:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate %", ylim=c(0,35), main = "Miss Rate vs Cache Size")
+1620691365084:lines(a$x, y2, pch = 18, col = "red", type = "b", lty = 2)
+1620691471802:legend("topright", legend=c("Direct Mapped Cache", "2-Way Set Assoc"),
+1620691471806:col=c("blue", "red"), lty = 1:2, cex=0.8, title="Cache Types")
+1620693000659:y2 <- c(25.06, 16.62, 11.18, 10.46, 8.53, 2.66, 1.30, 1.12, 1.10, 1.07, 1.07, 1.07, 1.07, 1.07, 1.07)
+1620693008550:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Miss Rate %", ylim=c(0,35), main = "Miss Rate vs Cache Size")
+1620693017635:lines(a$x, y2, pch = 18, col = "red", type = "b", lty = 2)
+1620693028949:legend("topright", legend=c("Direct Mapped Cache", "2-Way Set Assoc"),
+1620693028951:col=c("blue", "red"), lty = 1:2, cex=0.8, title="Cache Types")
+1620770731629:a <- data.frame(x = 8:22, y = c(571712, 379136, 255168, 238656, 194688, 60736, 29568, 25600, 25152, 24448, 24448, 24448, 24448, 24448, 24448))
+1620770922313:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic in Bytes")
+1620771034387:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic in Bytes", ylim=c(0,600000), main = "Traffic vs Cache Size")
+1620771214751:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic to Cache in Bytes", ylim=c(0,600000), main = "Traffic to Cache vs Cache Size")
+1620771367472:a <- data.frame(x = 8:22, y = c(34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968, 34968))
+1620771614871:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic to Bus in Bytes", ylim=c(0,180000), main = "Traffic to Bus vs Cache Size")
+1620771641263:y1 <- c(175360, 74816, 19712, 14464, 10432, 8320, 3904, 1088, 768, 0, 0, 0, 0, 0, 0)
+1620771668580:lines(a$x, y1, pch = 18, col = "red", type = "b", lty = 2)
+1620771746821:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic to Bus in Bytes", ylim=c(0,200000), main = "Traffic to Bus vs Cache Size")
+1620771750882:lines(a$x, y1, pch = 18, col = "red", type = "b", lty = 2)
+1620771923327:legend("topright", legend=c("Write-Through Cache", "Write-Back Cache"),
+1620771923330:col=c("blue", "red"), lty = 1:2, cex=0.8, title="Write Policy")
+1620771994277:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Cache Size [ = log(capacity in bytes)]", ylab = "Traffic to Bus in Bytes", ylim=c(0,200000), main = "Traffic to Bus vs Cache Size for 64B Blocksize 2-way Set Assoc Cache")
+1620772013484:lines(a$x, y1, pch = 18, col = "red", type = "b", lty = 2)
+1620772026300:legend("topright", legend=c("Write-Through", "Write-Back"),
+1620772026302:col=c("blue", "red"), lty = 1:2, cex=0.8, title="Write Policy")
+1620777054147:a <- data.frame(x = 2:13, y = c(5.63, 4.10, 3.02, 1.86, 1.12, 0.76, 0.60, 0.52, 0.52, 0.52, 0.59, 1.02, 1.45))
+1620777114501:a <- data.frame(x = 2:14, y = c(5.63, 4.10, 3.02, 1.86, 1.12, 0.76, 0.60, 0.52, 0.52, 0.52, 0.59, 1.02, 1.45))
+1620777118305:View(a)
+1620777261334:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,6), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache")
+1620783887169:a <- data.frame(x = 2:14, y = c(8048, 11736, 17376, 21632, 26688, 37120, 62208, 114176, 228352, 446464, 1019904, 3653632, 10256384))
+1620783916166:View(a)
+1620783921543:a$y <- a$y / 35650
+1620784091496:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Bytes per Memory Reference (Bytes/Reference)", ylim=c(0,300), main = "Bytes per Memory Reference vs Block Size for 32KB 2-way Set Assoc Cache")
+1620951028049:ithaca <- read.csv("~/Downloads/ithaca.csv")
+1620951028069:View(ithaca)
+1620951063865:syracuse <- read.csv("~/Downloads/syracuse.csv")
+1620951063866:View(syracuse)
+1620951149398:mean(ithaca$maxtemp)
+1620951179844:mean(syracuse$maxtemp)
+1620951370193:?cov
+1620951473165:cov(ithaca$maxtemp, syracuse$maxtemp)
+1620951578161:var(ithaca$maxtemp)
+1620951639971:var(syracuse$maxtemp)
+1620962291153:a <- data.frame(x = 2:14, y = c(5.63, 4.10, 3.02, 1.86, 1.12, 0.76, 0.60, 0.52, 0.52, 0.52, 0.59, 1.02, 1.45))
+1620962305430:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,6), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache")
+1620962423113:y <- c(24.30, 22.74, 20.61, 12.25, 8.11, 6.25, 5.76, 4.78, 4.53, 5.38, 7.30, 8.86, 10.06)
+1620962469587:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1620962556613:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,25), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache")
+1620962591103:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,6), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1620962606694:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,25), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1620962616380:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1620962654901:z <- c(31.76, 30.06, 27.26, 17.57, 13.29, 11.56, 11.45, 12.10, 14.46, 20.00, 30.59, 45.94, 69.05)
+1620962693548:lines(a$x, z, pch = 18, col = "purple", type = "b", lty = 2)
+1620962732858:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,70), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1620962744368:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1620962750001:lines(a$x, z, pch = 18, col = "purple", type = "b", lty = 2)
+1620962852296:?legend
+1620963027412:legend("topleft", legend=c("1 Core", "2 Cores with VI Coherence Protocol", "4 Cores with VI Coherence Protocol"),
+1620963027418:col=c("blue", "red", "purple"), lty = 1:2, cex=0.8, title="Coherence Protocol and Number of Cores")
+1620963081108:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,70), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1620963086285:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1620963101062:lines(a$x, z, pch = 18, col = "purple", type = "c", lty = 3)
+1620963111030:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,70), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1620963115358:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1620963129958:lines(a$x, z, pch = 18, col = "purple", type = "b", lty = 3)
+1620963155240:legend("topleft", legend=c("1 Core", "2 Cores with VI Coherence Protocol", "4 Cores with VI Coherence Protocol"),
+1620963155241:col=c("blue", "red", "purple"), lty = 1:3, cex=0.8, title="Coherence Protocol and Number of Cores")
+1621022300117:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,70), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1621022329139:plot(a$x, a$y, type = "b", frame = FALSE, pch = 19, col = "blue", xlab = "Block Size [ = log(block size in bytes)]", ylab = "Miss Rate %", ylim=c(0,50), main = "Miss Rate vs Block Size for 32KB 2-way Set Assoc Cache for Core 0")
+1621022388668:y <- c(7.91, 6.37, 5.06, 3.20, 2.17, 1.71, 1.75, 1.75, 2.10, 3.06, 5.08, 7.49, 12.45)
+1621022449382:z <- c(10.57, 9.01, 7.33, 4.76, 3.66, 3.24, 3.84, 4.68, 6.29, 9.83, 19.20, 34.00, 45.69)
+1621022465342:lines(a$x, y, pch = 18, col = "red", type = "b", lty = 2)
+1621022472375:lines(a$x, z, pch = 18, col = "purple", type = "b", lty = 3)
+1621022547051:legend("topleft", legend=c("1 Core", "2 Cores with MSI Coherence Protocol", "4 Cores with MSI Coherence Protocol"),
+1621022547064:col=c("blue", "red", "purple"), lty = 1:3, cex=0.8, title="Coherence Protocol and Number of Cores")
+1621541781421:### Starter code for assignment
+1621541781422:#behind the scenes libraries
+1621541781423:library(tidyverse)
+1621541783015:library(sf)
+1621541783017:library(tidycensus)
+1621541836791:install.packages("tidycensus", dep=T)
+1621541888971:install.packages("sf", dep=T)
+1621542015205:### Starter code for assignment
+1621542015205:#behind the scenes libraries
+1621542015206:library(tidyverse)
+1621542015213:library(sf)
+1621542017805:library(tidycensus)
+1621542026108:#avoid scientific notiation
+1621542026109:options(scipen = 99)
+1621542026109:#store API key
+1621542026110:census_api_key("d1098bc1212952dfa27f8c44070be68930f4ebd9")
+1621542434897:load("~/Downloads/lab-3-problem-set.RData")
+1621542465972:load("./Downloads/lab-3-problem-set.RData")
+1621542497271:med_hh_inc <- get_acs("county",year = 2019, variables = "B19013_001")
+1621542501357:View(spending)
+1621542607955:View(med_hh_inc)
+1621542637154:med_hh_inc <- med_hh_inc %>%
+1621542637156:select(GEOID = GEOID,NAME = NAME, med_hh_inc = estimate, moe = moe)
+1621542826661:str_detect("Yunus", "nus")
+1621542829323:str_detect("Yunus", "nusi")
+1621542949094:med_hh_inc <- med_hh_inc %>%
+1621542949097:filter(str_detect(NAME, "New York"))
+1621543212697:ggplot(med_hh_inc, aes(x = NAME, y=med_hh_inc)) + geom_bar()
+1621543504541:ggplot(med_hh_inc, aes(x = NAME)) + geom_bar()
+1621543549833:ggplot(med_hh_inc, aes(x = GEOID)) + geom_bar()
+1621558178458:#load lab 3 workspace
+1621558178464:load("./Downloads/lab-3-problem-set.RData")
+1621558199578:spending$GEOID <- parse_number(spending$GEOID)
+1621558247395:spending$GEOID <- parse_number(spending$GEOID)
+1621558266411:spending_f <- spending %>%
+1621558266413:filter(GEOID == 42101 | GEOID == 06075)
+1621558267834:View(spending_f)
+1621558282007:spending_f <- spending_f %>% drop_na()
+1621558340375:ggplot(spending_f, aes(date, spend_all))+
+1621558340383:geom_line(aes(color=county))
+1621558490009:spending_f <- spending %>%
+1621558490012:filter(GEOID == 36059 | GEOID == 36079| GEOID == 60240 | GEOID == 36003 | GEOID == 36005)
+1621558494651:spending_f <- spending_f %>% drop_na()
+1621558534646:ggplot(spending_f, aes(date, spend_all))+
+1621558534647:geom_line(aes(color=county))+
+1621558534650:geom_vline(xintercept = as.Date("2020-03-27"), color="black")
+1621558623725:spending_f <- spending %>%
+1621558623727:filter(GEOID == 36003 | GEOID == 36005)
+1621558746785:spending_f <- spending %>%
+1621558746788:filter(GEOID == 60240)
+1632061215252:fluidPage(
+1632061215254:headerPanel('Iris k-means clustering'),
+1632061215255:sidebarPanel(
+1632061215255:selectInput('xcol', 'X Variable', names(iris)),
+1632061215255:selectInput('ycol', 'Y Variable', names(iris),
+1632061215256:selected = names(iris)[[2]]),
+1632061215256:numericInput('clusters', 'Cluster count', 3,
+1632061215256:min = 1, max = 9)
+1632061215256:),
+1632061215257:mainPanel(
+1632061215257:plotOutput('plot1')
+1632061215257:)
+1632061215258:)
+1632061365584:fluidPage(
+1632061365585:headerPanel('Iris k-means clustering'),
+1632061365585:sidebarPanel(
+1632061365585:selectInput('xcol', 'X Variable', names(iris)),
+1632061365585:selectInput('ycol', 'Y Variable', names(iris),
+1632061365586:selected = names(iris)[[2]]),
+1632061365586:numericInput('clusters', 'Cluster count', 3,
+1632061365586:min = 1, max = 9)
+1632061365586:),
+1632061365586:mainPanel(
+1632061365586:plotOutput('plot1')
+1632061365587:)
+1632061365587:)
+1632061425405:library(shiny)
+1632061437026:fluidPage(
+1632061437028:headerPanel('Iris k-means clustering'),
+1632061437028:sidebarPanel(
+1632061437028:selectInput('xcol', 'X Variable', names(iris)),
+1632061437029:selectInput('ycol', 'Y Variable', names(iris),
+1632061437029:selected = names(iris)[[2]]),
+1632061437030:numericInput('clusters', 'Cluster count', 3,
+1632061437030:min = 1, max = 9)
+1632061437030:),
+1632061437031:mainPanel(
+1632061437031:plotOutput('plot1')
+1632061437032:)
+1632061437032:)
+1632062074311:library(shiny)
+1632062074313:ui <- fluidPage()
+1632062074327:server <- function(input, output) {}
+1632062074327:shinyApp(ui = ui, server = server)
+1632062327247:library(shiny)
+1632062327249:ui <- fluidPage("Hello World")
+1632062327262:server <- function(input, output) {}
+1632062327262:shinyApp(ui = ui, server = server)
+1632062346002:runApp('01-template.R')
+1632062818999:?submitButton
+1632066668630:?sliderInput
+1632066909399:runApp('01-template.R')
+1632067628826:shinyapps
+1632067632364:?shinyapps
+1632067667920:devtools::install_github("rstudio/shinyapps")
+1632067726962:install.packages('devtools')
+1632067745536:install.packages("devtools")
+1632067753281:install.packages("devtools")
+1632067761864:install.packages("devtools")
+1632067780568:devtools::install_github("rstudio/shinyapps")
+1632068073481:sessionInfo()
+1632068092507:devtools::install_github("rstudio/shinyapps")
+1632068190885:devtools::install_github('rstudio/shinyapps')
+1632068382730:library(shinyapps)
+1632068386026:install.packages('rsconnect')
+1632586165641:shiny::runApp()
+1632586196129:?fluidPage
+1632589356552:?rnorm

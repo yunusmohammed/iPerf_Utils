@@ -1,0 +1,9 @@
+cd CS3110/
+. code
+cd ~/CS3110
+. code
+code .
+code .
+cd /Users/ymm26/Library/Application\ Support
+ls
+code .

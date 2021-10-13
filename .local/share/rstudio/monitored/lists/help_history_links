@@ -1,0 +1,15 @@
+help/library/stats/html/ts.plot.html,R: Plot Multiple Time Series
+help/library/base/html/diff.html,R: Lagged Differences
+help/library/stats/html/sd.html,R: Standard Deviation
+help/library/stats/html/integrate.html,R: Integration of One-Dimensional Functions
+help/library/graphics/html/hist.html,R: Histograms
+help/library/stats/html/Uniform.html,R: The Uniform Distribution
+help/library/stats/html/Binomial.html,R: The Binomial Distribution
+help/library/base/html/data.frame.html,R: Data Frames
+help/library/stats/html/cor.html,"R: Correlation, Variance and Covariance (Matrices)"
+help/library/NULL/help/plot,plot
+help/library/graphics/html/legend.html,R: Add Legends to Plots
+help/library/shiny/html/submitButton.html,R: Create a submit button
+help/library/shiny/html/sliderInput.html,R: Slider Input Widget
+help/library/shiny/html/fluidPage.html,R: Create a page with fluid layout
+help/library/stats/html/Normal.html,R: The Normal Distribution

@@ -1,0 +1,8 @@
+[INFO   ] Logger: Record log in /Users/ymm26/.kivy/logs/kivy_20-09-03_0.txt
+[WARNING] [Config      ] Upgrading configuration in progress.
+[WARNING] [Config      ] Older configuration version detected (0 instead of 21)
+[INFO   ] Kivy: v1.11.1
+[INFO   ] Kivy: Installed at "/Applications/anaconda3/lib/python3.7/site-packages/kivy/__init__.py"
+[INFO   ] Python: v3.7.4 (default, Aug 13 2019, 15:17:50) 
+[Clang 4.0.1 (tags/RELEASE_401/final)]
+[INFO   ] Python: Interpreter at "/Applications/anaconda3/bin/python3"
